@@ -1,1 +1,1 @@
-this is new file created in master branch
+this is new file created in master branch"viewing completed and modified and task completed. here i am applying pollscm " 
